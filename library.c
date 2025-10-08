@@ -3,7 +3,7 @@
 
 int main() {
     system("chcp 65001 > NUL");
-    printf("Polskie znaki: ąęłóźćńśŻŹĆ\n");
+    printf("Hello World\n");
     printf("Witaj Świecie\u263B\n");
     printf("Naciśnij Enter, aby zakończyć...");
     getchar();
